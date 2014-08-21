@@ -18,7 +18,7 @@
 -include device/samsung/n80xx-common/BoardConfigCommon.mk
 
 # Inline kernel building
-TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
+TARGET_KERNEL_SOURCE := kernel/samsung/n8013
 TARGET_KERNEL_CONFIG := DEMENTED_n8013_defconfig
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
 
